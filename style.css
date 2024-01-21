@@ -1,0 +1,59 @@
+
+body{
+      background-color: gray;
+    /* background-color: rgb(21, 21, 21); */
+}
+
+
+h1{
+    text-align: center;
+}
+
+
+.main{
+    text-align: center;
+    background-color: white;
+    border: 1px solid rgb(244, 242, 242);
+    width: 800px;
+    height: 550px;
+    margin-top: 2%;
+    margin-left: 18%;
+    padding-left: 2%;
+    padding-right: 2%;  
+    border-radius: 20px;
+    
+}
+
+.nave{
+    height: 40px;
+    width: 350px;
+    margin-left: 5%;
+    text-align: left;
+}
+
+.number{
+    height: 50px;
+    background-color: rgb(23, 141, 168);
+    color: white;
+    width: 500px;
+}
+
+
+.apple{
+    background-color: gainsboro;
+    
+}
+
+.hello{
+     border-top: 2px solid darkblue;
+     border-bottom: 2px solid darkblue;
+    background-color: gainsboro;
+    
+}
+
+
+.happy{
+    height: 20%;
+    
+    
+}
